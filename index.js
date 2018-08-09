@@ -4,6 +4,7 @@
 
 // let companyName = 'Scuber';
 const companyName = 'Scuber';
-// let mostProfitableNeighborhood = 'Brooklyn';
+// const mostProfitableNeighborhood = 'Brooklyn';
+// const mostProfitableNeighborhood = 'Chelsea';
 let mostProfitableNeighborhood = 'Chelsea';
 let companyCeo = 'Sarah';

@@ -2,4 +2,5 @@
 // let mostProfitableNeighborhood = 'Chelsea';
 // let companyCeo = 'Susan Smith';
 
-let companyName = 'Scuber';
+// let companyName = 'Scuber';
+const companyName = 'Scuber';

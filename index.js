@@ -8,4 +8,5 @@ const companyName = 'Scuber';
 // const mostProfitableNeighborhood = 'Chelsea';
 let mostProfitableNeighborhood = 'Chelsea';
 // const companyCeo = 'Sarah Jones';
-let companyCeo = 'Sarah Jones';
+// let companyCeo = 'Sarah Jones';
+let companyCeo = 'Susan Smith';
